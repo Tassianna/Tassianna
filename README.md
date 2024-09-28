@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-- 👋 Hi, I'm Anastasia (aka Tassianna) from Greece, currently living in Berlin! 
-- 💻 I'm an app and web developer with several years of experience, now expanding my expertise in Cloud (AWS, Azure) and DevOps after completing a boot camp in cybersecurity.
-- 🌍 I'm seeking a hybrid or remote role in an inclusive, diverse, and supportive environment.
-- 🚀 Currently, I'm working on a private project using Flask and AWS services to sharpen my skills further.
+👋 Hi, I'm Anastasia (aka Tassianna) from Greece, currently living in Berlin! 
+💻 I'm an app and web developer with several years of experience, now expanding my expertise in Cloud (AWS, Azure) and DevOps after completing a boot camp in cybersecurity.
+🌍 I'm seeking a hybrid or remote role in an inclusive, diverse, and supportive environment.
+🚀 Currently, I'm working on a private project using Flask and AWS services to sharpen my skills further.
 
 
 ## 🌐 Socials:
