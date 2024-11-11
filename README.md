@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 👋 Hi, I'm Anastasia (aka Tassianna) from Greece, living in Berlin the last 10 years! 
 - 💻 I'm a mobile app and full-stack developer with a couple of years of experience, now expanding my expertise in Cloud and DevOps.
-- 🚀 Currently, I'm working on a team project where I am trying to migrate a monolithic web application to microservices architecture, using EKS and Docker.
+- 🚀 Currently, I'm working on a team project where we are responsible for upgrading a monolithic web application to microservices architecture, using EKS and Docker.
 - 🌍 I'm seeking a hybrid or remote role in an inclusive, diverse, and supportive environment.
 
 
